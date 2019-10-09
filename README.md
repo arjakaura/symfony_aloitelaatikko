@@ -1,3 +1,3 @@
 ALOITELAATIKKO
 
-Tämä on minum synfony harjoitus.
+Tämä on minum Symfony harjoitus.
